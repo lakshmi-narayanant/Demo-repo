@@ -1,6 +1,5 @@
-class demo:
-    def __init__(self):
-        self.a = 10
-        self.b=20
+def calc():
+    a=1+2
+    b=5+4
     return a+b
 
